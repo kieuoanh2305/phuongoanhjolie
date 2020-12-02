@@ -1,0 +1,22 @@
+[
+  {
+    "CategoriesID": 1,
+    "name": "Living Room",
+    "image": "living_room.png"
+  },
+  {
+    "CategoriesID": 2,
+    "name": "Meeting Room",
+    "image": "meeting_room.png"
+  },
+  {
+    "CategoriesID": 3,
+    "name": "Bed Room",
+    "image": "bed_room.png"
+  },
+  {
+    "CategoriesID": 4,
+    "name": "Accessories",
+    "image": "accessories.png"
+  }
+]
