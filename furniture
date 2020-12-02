@@ -1,0 +1,88 @@
+[
+    {
+      "furnitureId": 1,
+      "name": "Carbon Loft Kehlmann Black Metal and Wood Desk",
+      "image":"hinh_1.png",
+      "description":"Create an industrial office space with the contemporary Kehlmann desk from Carbon Loft. The black metal frame features a supportive x-shaped stretcher and a weathered-oak table top.
+        Complete the look with your favorite chair and office accessories.",
+      "categoriesId":1
+    },
+    {
+      "furnitureId": 2,
+      "name": "Furniture of America Tali Contemporary 2-tone Leaning Writing Desk",
+      "image":"hinh_2.png",
+      "description":"Add a serene color palette and handy utility to your hallway or office by choosing this leaning desk. This unexpected piece is ideal for compact spaces",
+      "categoriesId":2
+    },
+    {
+      "furnitureId": 3,
+      "name": "Argis Black Metal Rustic 1-Drawer Ladder Desk with USB Charging Station by iNSPIRE Q Modern",
+      "image":"hinh_3.png",
+      "description":"Short on space? The Argis Black Metal Rustic 1-Drawer Ladder Desk with USB Charging Station from iNSPIRE Q Modern is the perfect space-saving solution! Rustic and industrial elements come together with surfaces bearing visible wood grain finishes and a sturdy metal frame to hold it all together. 
+        The metal frame has a sharp black finish, lending to a more contemporary aesthetic while also easily matching with color schemes. 
+        Open and concealed storage options are available with this desk. Two tiered shelves hang above the table top,",
+      "categoriesId":3
+    },
+     {
+      "furnitureId": 4,
+      "name": "Copper Grove Pontica Faux Suede 3-piece Comforter Set",
+      "image":"hinh_4.png",
+      "description":"Stay warm and get a good nights rest with this ultra plush comforter set by Copper Grove. 
+        This 3-piece comforter set is made from plush microfiber and features a faux suede top with baffle box stitching. 
+        Both comforter and shams feature microfiber faux suede tops and fluffy sherpa backs for a warm and cozy night sleep. 
+        This plush comforter set will keep you comfortable all winter long.",
+      "categoriesId":4
+    },
+     {
+      "furnitureId": 5,
+      "name": "Aurora Home Thermal Insulated Blackout Grommet Top Curtain Panel Pair",
+      "image":"hinh_5.png",
+      "description":"Suited for busy households, these curtain panels are made wholly of robust polyester fiber, which is machine-washable for easy maintenance. 
+        The curtain solid color is great for adding a pop of color to any setting. 
+        Enjoy complete privacy and enhanced insulation in your bedroom by fitting your window with these blackout curtain panels from Aurora Home.",
+      "categoriesId":1
+    },
+    {
+      "furnitureId": 6,
+      "name": "Prominence Home Briarcrest Farmhouse Aged Bronze LED Ceiling Fan",
+      "image":"hinh_6.png",
+      "description":"This picture matched perfectly with my living room, it looks exactly how I envisiond. Great quality!
+        This user was entered into a sweepstakes after submitting their honest review.",
+      "categoriesId":2
+    },
+     {
+      "furnitureId": 7,
+      "name": "Safavieh Natural Fiber Oceana Casual Border Seagrass Rug",
+      "image":"hinh_7.png",
+      "description":"Safavieh Natural Fiber Oceana Casual Border Seagrass Rug</string>
+    <string name="product_seven">Add warmth and a carefree seaside ambiance to your home with the beauty of this seagrass rug from Safavieh Natural Fiber Collection. 
+        Bordered in cotton twill, this rug clean, neutral pigments and elegant herringbone design allow for unlimited decorating versatility.",
+      "categoriesId":3
+    },
+    {
+      "furnitureId": 8,
+      "name": "Wexford Home Morning Chorus Gallery Wrapped Canvas Wall Art",
+      "image":"hinh_8.png",
+      "description":"Set a calm and serene mood in your living room with the depiction of perched birds on this Morning Chorus wall art from Wexford Home. 
+        Created with canvas, this durable artwork boasts rich color and texture. 
+        This canvas art comes stretched over a frame to create a contemporary gallery look.",
+      "categoriesId":4
+    },
+    {
+      "furnitureId": 9,
+      "name": "Large Full-length Floor Mirror with Stand",
+      "image":"hinh_9.png",
+      "description":"Double check your outfit with ease with this full-length floor mirror. 
+        The corrosion-resistant polystyrene frame is fitted with a large center mirror and an integrated stand for easy installation in your space. 
+        Choose from six unique finishes to complement your contemporary decor.",
+      "categoriesId":1
+    },
+    {
+      "furnitureId": 10,
+      "name": "48-inch Corner Two Door Fireplace TV Stand Console",
+      "image":"hinh_10.png",
+      "description":"Designed with that awkward, desolate living room corner in mind, this 48" fireplace corner TV console is the perfect space-saving piece that will create a warm, entertaining, irresistible space for family movie night.  
+        Crafted from high-grade MDF with a durable laminate wood grain finish, this console is sure to complement your home decor.",
+      "categoriesId":2
+    }
+  ]
